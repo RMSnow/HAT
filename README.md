@@ -1,4 +1,9 @@
 # HAT
+
+****[Notes]**** The repo may be incomplete and some of the code is a bit messy. We will improve in the near future. Readme will also include more details. Coming soon stay tuned :)
+
+---
+
 This is the official repository of the paper:
 
 > **Structure-Enhanced Pop Music Generation via Harmony-Aware Learning**

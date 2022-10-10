@@ -1,0 +1,15 @@
+*__pycache__*
+*ipynb_checkpoints*
+*vscode*
+
+*.npy
+*.npz
+*.pt
+*.pkl
+*.mp3
+*.wav
+*.flac
+*.log
+*.json
+*.pickle
+*.mid
